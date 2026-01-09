@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+button{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+.inviting {
+    background-color: black;
+    color: white;
+}
+.uninviting {
+    background-color: yellow;
+}
